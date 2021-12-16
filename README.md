@@ -1,3 +1,4 @@
-# Password-generator-using-python
-We are able to generate a random password.
+# Python Projects
+Random Password Generator
+Rock paper scissor game
 
